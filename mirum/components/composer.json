@@ -1,0 +1,8 @@
+{
+    "name": "cleartag/satis-demo",
+    "autoload": {
+        "psr-0" : {
+            "cleartag\\satis" : ""
+        }
+    }
+}
